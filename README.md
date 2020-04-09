@@ -10,9 +10,14 @@ Challenges
 
 Every team should complete the following tasks:
 
+
 1. Choose one of the three challenges
 2. Decide which cloud to work on the challenge 
 3. Build an Architecture Diagram of the solution
 4. Build the solution to work propertly
 5. Prepare a small presentation of the solution for the Judges
+
+
+Lets have some fun!!!
+Go Palo Alto Networks!!!
 
