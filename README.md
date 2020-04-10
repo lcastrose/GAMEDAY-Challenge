@@ -4,13 +4,13 @@ Cloud & Containers Training Sessions - Final
 The following are the possible Challenges each team can choose
 
 1. Lift and Shift:
-Based on traditional IaaS like: VMs, RDBMS
+- Based on traditional IaaS like: VMs, RDBMS
 
 2. Cloud Native:
-Based on containers like: Docker, Kubernetes
+- Based on containers like: Docker, Kubernetes
 
 3. Serverless:
-Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
+- Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
 
 
 Every team should complete the following tasks:
