@@ -41,6 +41,6 @@ Extra Mile (Optional):
 3. Deploy the architecture Multi-Region
 4. Add a PANW in the Architecture
 
-Lets have some fun!!!
-Go Palo Alto Networks!!!
+- Lets have some fun!!!
+- Go Palo Alto Networks!!!
 
