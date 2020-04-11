@@ -12,6 +12,8 @@ The following are the possible Challenges each team can choose
 3. Serverless:
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
 
+Note: There is a folder for each of fhe challenges with some instructions and support material.
+
 
 Every team should complete the following tasks:
 
