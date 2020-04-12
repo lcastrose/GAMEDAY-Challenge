@@ -6,10 +6,10 @@ The following are the possible Challenges each team can choose
 1. Lift and Shift:
 - Based on traditional IaaS like: VMs, RDBMS
 
-2. Cloud Native:
+2. Cloud Native: (Give you +10 Extra Points)
 - Based on containers like: Docker, Kubernetes
 
-3. Serverless:
+3. Serverless: (Give you +15 Extra Points)
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
 
 Note: There is a folder for each of fhe challenges with some instructions and support material.
