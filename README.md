@@ -25,7 +25,7 @@ Every team should complete the following tasks:
 
 Grading:
 
-1. Architecture Diagram - 20%
+1. Architecture Diagram - 20% (Use draw.io https://app.diagrams.net/)
 2. Operational and Deployment - 30%
 3. Creativity - 10%
 4. Innovation - 20%
