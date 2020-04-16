@@ -47,10 +47,10 @@ Extra Mile (Optional):
 3. Add a PANW inside the Architecture
 
 Access to Training Repos:
-https://github.com/lcastrose/K8s-Training
-https://github.com/lcastrose/DOCKER-Training
-https://github.com/lcastrose/AZURE-Training
-https://github.com/lcastrose/AWS-Training
+- https://github.com/lcastrose/K8s-Training
+- https://github.com/lcastrose/DOCKER-Training
+- https://github.com/lcastrose/AZURE-Training
+- https://github.com/lcastrose/AWS-Training
 
 - Lets have some fun!!!
 
