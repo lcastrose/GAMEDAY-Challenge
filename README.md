@@ -46,6 +46,12 @@ Extra Mile (Optional):
 2. Test a DR scenario
 3. Add a PANW inside the Architecture
 
+Access to Training Repos:
+https://github.com/lcastrose/K8s-Training
+https://github.com/lcastrose/DOCKER-Training
+https://github.com/lcastrose/AZURE-Training
+https://github.com/lcastrose/AWS-Training
+
 - Lets have some fun!!!
 
 - Go Palo Alto Networks!!!
