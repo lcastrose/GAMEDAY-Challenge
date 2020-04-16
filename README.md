@@ -1,4 +1,5 @@
 # GAMEDAY-Challenge
+
 Cloud & Containers Training Sessions - Final
 
 The following are the possible Challenges each team can choose
@@ -36,7 +37,8 @@ Minimal Requirements:
 1. Expose the service publically
 2. Consider Security, SG, IAM, 
 3. Consider Resiliency - AZ's, High Availability
-4. Use DNS Service
+4. Use DNS Service or Route53
+5. Exposed Services (Web Sites) should contain something related to Palo Alto Networks. Meaning that examples provided need to be modified with related content.
 
 Extra Mile (Optional):
 1. Automation (could be Bash Script, IaC, Terraform, CloudFormation, ARM, etc)
@@ -44,5 +46,6 @@ Extra Mile (Optional):
 3. Add a PANW in the Architecture
 
 - Lets have some fun!!!
+
 - Go Palo Alto Networks!!!
 
