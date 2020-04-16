@@ -26,22 +26,22 @@ Every team should complete the following tasks:
 Grading:
 
 1. Architecture Diagram - 20% (Use draw.io https://app.diagrams.net/)
-2. Operational and Deployment - 30%
+2. Operational Deployment - 30%
 3. Creativity - 10%
 4. Innovation - 20%
 5. Presentation and Sustentation - 20%
 6. Extra Mile - 20% (Optional)
 
 Minimal Requirements:
-1. Expose the service Publically
-2. Consider Security
-2. Consider Resiliency
+1. Expose the service publically
+2. Consider Security, SG, IAM, 
+3. Consider Resiliency - AZ's, High Availability
+4. Use DNS Service
 
 Extra Mile (Optional):
 1. Automation (could be Bash Script, IaC, Terraform, CloudFormation, ARM, etc)
-2. Perform DR scenario
-3. Deploy the architecture Multi-Region
-4. Add a PANW in the Architecture
+2. Test a DR scenario
+3. Add a PANW in the Architecture
 
 - Lets have some fun!!!
 - Go Palo Alto Networks!!!
