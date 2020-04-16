@@ -9,6 +9,7 @@ The following are the possible Challenges each team can choose
 
 2. Cloud Native: (Give you +10 Extra Points)
 - Based on containers like: Docker, Kubernetes
+https://hub.docker.com/
 
 3. Serverless: (Give you +15 Extra Points)
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
