@@ -52,7 +52,7 @@ Access to Training Repos:
 - https://github.com/lcastrose/AZURE-Training
 - https://github.com/lcastrose/AWS-Training
 
-- Lets have some fun!!!
+Good Luck!!! & Lets have some fun!!!
 
 - Go Palo Alto Networks!!!
 
