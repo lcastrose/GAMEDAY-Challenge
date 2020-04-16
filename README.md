@@ -13,8 +13,6 @@ The following are the possible Challenges each team can choose
 3. Serverless: (Give you +15 Extra Points)
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
 
-Note: There is a folder for each of fhe challenges with some instructions and support material.
-
 
 Every team should complete the following tasks:
 
@@ -43,7 +41,7 @@ Minimal Requirements:
 Extra Mile (Optional):
 1. Automation (could be Bash Script, IaC, Terraform, CloudFormation, ARM, etc)
 2. Test a DR scenario
-3. Add a PANW in the Architecture
+3. Add a PANW inside the Architecture
 
 - Lets have some fun!!!
 
