@@ -16,11 +16,12 @@ The following are the possible Challenges each team can choose
 
 Every team should complete the following tasks:
 
-1. Choose one of the three challenges
-2. Decide which cloud to work on the challenge (AWS, Azure, GCP)
-3. Build an Architecture Diagram of the solution
-4. Build the solution to work propertly
-5. Prepare a small presentation of the solution for the Judges
+1. Choose a Team Name
+2. Choose one of the three challenges
+3. Decide which cloud to work on the challenge (AWS, Azure, GCP)
+4. Build an Architecture Diagram of the solution
+5. Build the solution to work propertly
+6. Prepare a small presentation of the solution for the Judges
 
 Grading:
 
@@ -33,6 +34,7 @@ Grading:
 
 Minimal Requirements:
 1. Expose the service publically
+2. Have at least two layers: FrontEnd & Middleware or DB (No need to make DB fully operational)
 2. Consider Security, SG, IAM, 
 3. Consider Resiliency - AZ's, High Availability
 4. Use DNS Service or Route53
