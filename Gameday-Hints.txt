@@ -35,6 +35,9 @@ K8s Web
 Docker & K8s:
 - https://docs.docker.com/docker-for-mac/kubernetes/
 
+K8s on AWS:
+- https://www.weave.works/technologies/kubernetes-on-aws/
+
 
 3. ServerLess
 
