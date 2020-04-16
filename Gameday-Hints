@@ -1,0 +1,37 @@
+Gameday Challenge Hints
+
+1. Lift and Shift
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
+
+http://docs.heptio.com/content/tutorials/lamp.html
+
+https://aws.amazon.com/websites/getting-started/start-your-project/
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html
+
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
+
+
+
+2. Cloud Native
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+https://www.oreilly.com/content/how-to-manage-docker-containers-in-kubernetes-with-java/
+
+https://kubernetes.io/docs/concepts/services-networking/service/#type-loadbalancer
+
+https://learnk8s.io/nodejs-kubernetes-guide
+
+https://rancher.com/learning-paths/how-to-deploy-your-application-to-kubernetes/
+
+https://docs.docker.com/docker-for-mac/kubernetes/
+
+
+3. ServerLess
+
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
+
+https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/
+
+
