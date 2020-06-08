@@ -9,7 +9,7 @@ Note: For using Terraform you need to have the following pre-requisits in your h
 3. Wget - https://www.gnu.org/software/wget/
 4. AWS Authenticator - For AWS Only - https://www.gnu.org/software/wget/
 
-Examples
+Terraform Guides:
 
 # Terraform - PANW AWS & AZURE
 
@@ -56,6 +56,8 @@ https://github.com/PaloAltoNetworks/gcp-two-tier
 https://learn.hashicorp.com/terraform/kubernetes/deploy-nginx-kubernetes
 
 
+Challenges
+
 1. Lift and Shift
 
 Azure Multi Region Application
@@ -90,6 +92,33 @@ Azure DevOps
 - https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Cyaml%2Cbrowser%2Ctfs-2018-2
 - https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops
 
+AWS CI/CD:
+- https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/
+
+AWS Continous Deployment:
+- https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/
+
+
+3. ServerLess
+
+Azure Serverless Multi Region
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
+
+AWS Python Web App:
+- https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/
+
+Azure Functions:
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/web-app
+
+
+Support Links:
+
+Kubernetes Documentation
+- https://kubernetes.io/es/docs/home/
+
+Docker Documentation
+- https://docs.docker.com/
+
 LAMP: 
 - http://docs.heptio.com/content/tutorials/lamp.html
 
@@ -107,20 +136,5 @@ Docker & K8s:
 
 K8s on AWS:
 - https://www.weave.works/technologies/kubernetes-on-aws/
-
-
-3. ServerLess
-
-Azure Serverless Multi Region
-- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
-
-AWS Serverless Web App:
-- https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
-
-AWS Python Web App:
-- https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/
-
-Azure Functions:
-- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/web-app
 
 
