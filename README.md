@@ -48,6 +48,28 @@ Cloud & Containers Final Session
 4. Or any other value added to the architecture
 
 
+# Time Distribution (Recommendations)
+9:00 am - Define the Challenge and Team Name (Be creative)
+9:15 am - Define Architecture & Security Components 
+9:30 am - Define the Cloud(s) where to work
+9:35 am - Define Extra Mile Components
+9:45 am - Distrubute Workload across the team
+10:00 am - Start working on the Challenge
+- Start creating the Architecture Diagram
+- Start creating Presentation
+
+11:00 am - Make a touchpoint to validate the status (At least 25%% completion recommeded)
+- If working with automation have enough time to review possible errors, if not moving forward redefine the strategy!!!
+
+12:00 md - Make another touchpoint to validate the status (At least 50% completion is recommended)
+
+1:00 pm - Most of the objetives should be done by this moment, and you should be focus on cosmetics...
+- Finishing the Architecture Diagram
+- Finishing the Presentation
+
+2:00 pm - Begins the Judges Evaluation
+- Each team will have 10 minutes to present what they accomplished!!!
+
 # Access to Training Presentations and Labs:
 
 https://drive.google.com/open?id=1zZV7AhulPabVntZzibVBST8RrnxoX14s
