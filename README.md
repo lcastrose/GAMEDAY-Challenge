@@ -1,8 +1,8 @@
-# GAMEDAY-Challenge
+# LATAM GAMEDAY-Challenge
 
-Cloud & Containers Training Sessions - Final
+Cloud & Containers Final Session
 
-The following are the possible Challenges each team can choose
+# Challenges each team can choose
 
 1. Lift and Shift:
 - Based on traditional IaaS like: VMs, RDBMS
@@ -15,16 +15,17 @@ The following are the possible Challenges each team can choose
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
 
 
-Every team should complete the following tasks:
+# Every team should complete the following tasks:
 
-1. Choose a Team Name
-2. Choose one of the three challenges
-3. Decide which cloud to work on the challenge (AWS, Azure, GCP)
+1. Define a Team Name
+2. Choose one of the challenges
+3. Choose cloud to work on the challenge (AWS, Azure, GCP)
 4. Build an Architecture Diagram of the solution
 5. Build the solution to work propertly
-6. Prepare a small presentation of the solution for the Judges
+6. Add a Security Feature (NGFW, Prisma Cloud, Prisma SaaS, Prisma Acces, etc)
+6. Prepare a small presentation of the solution for the Judges (Presentation10 Min max)
 
-Grading:
+# Grading:
 
 1. Architecture Diagram - 20% (Use draw.io https://app.diagrams.net/)
 2. Operational Deployment - 30%
@@ -33,7 +34,7 @@ Grading:
 5. Presentation and Sustentation - 20%
 6. Extra Mile - 20% (Optional)
 
-Minimal Requirements:
+# Minimal Requirements:
 1. Expose the service publically
 2. Have at least two layers: FrontEnd & Middleware or DB (No need to make DB fully operational)
 2. Consider Security, SG, IAM, 
@@ -41,18 +42,16 @@ Minimal Requirements:
 4. Use DNS Service or Route53
 5. Exposed Services (Web Sites) should contain something related to Palo Alto Networks. Meaning that examples provided need to be modified with related content.
 
-Extra Mile (Optional):
+# Extra Mile (Optional):
 1. Automation (could be Bash Script, IaC, Terraform, CloudFormation, ARM, etc)
 2. Test a DR scenario
 3. Add a PANW inside the Architecture
 
-Access to Training Repos:
-- https://github.com/lcastrose/K8s-Training
-- https://github.com/lcastrose/DOCKER-Training
-- https://github.com/lcastrose/AZURE-Training
-- https://github.com/lcastrose/AWS-Training
+# Access to Training Presentations and Labs:
+
+https://drive.google.com/open?id=1zZV7AhulPabVntZzibVBST8RrnxoX14s
 
 Good Luck!!! & Lets have some fun!!!
 
-- Go Palo Alto Networks!!!
+# Go Palo Alto Networks!!!
 
