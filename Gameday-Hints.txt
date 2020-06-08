@@ -1,10 +1,15 @@
 # Gameday Challenge Hints
 
+For AWS you can use the following Account: https://lcastrose.signin.aws.amazon.com/console
+For Azure you can use the - AzureSEAmericasNonMajors: https://portal.azure.com/
+
 Note: For using Terraform you need to have the following pre-requisits in your host machine:
 1. Terraform installed: https://learn.hashicorp.com/terraform/getting-started/install
 2. Kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/
 3. Wget - https://www.gnu.org/software/wget/
 4. AWS Authenticator - For AWS Only - https://www.gnu.org/software/wget/
+
+Examples
 
 # Terraform - PANW AWS & AZURE
 
@@ -53,11 +58,17 @@ https://learn.hashicorp.com/terraform/kubernetes/deploy-nginx-kubernetes
 
 1. Lift and Shift
 
+Azure Multi Region Application
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/multi-region-sql-server
+
+AWS WordPress
+- https://aws.amazon.com/getting-started/hands-on/launch-load-balanced-wordpress-website/
+
 LEMP: 
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
 
-CloudFormation: 
-- https://aws.amazon.com/websites/getting-started/start-your-project/
+CloudFormation Templates 
+- https://aws.amazon.com/cloudformation/resources/templates/us-west-1/
 
 WordPress: 
 - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html
@@ -65,14 +76,22 @@ WordPress:
 
 2. Cloud Native
 
+AWS EKS Application
+- https://aws.amazon.com/getting-started/hands-on/deploy-kubernetes-app-amazon-eks/
+
+Azure AKS
+
+- https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
+
+Azure AKS MicroServices
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks
+
+Azure DevOps
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Cyaml%2Cbrowser%2Ctfs-2018-2
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops
+
 LAMP: 
 - http://docs.heptio.com/content/tutorials/lamp.html
-
-K8s GuestBook: 
-- https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
-
-Docker & K8s: 
-- https://www.oreilly.com/content/how-to-manage-docker-containers-in-kubernetes-with-java/
 
 K8s LB:
 - https://kubernetes.io/docs/concepts/services-networking/service/#type-loadbalancer
@@ -92,10 +111,16 @@ K8s on AWS:
 
 3. ServerLess
 
-Serverless Web App:
+Azure Serverless Multi Region
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
+
+AWS Serverless Web App:
 - https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 
-Python Web App:
+AWS Python Web App:
 - https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/
+
+Azure Functions:
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/web-app
 
 
