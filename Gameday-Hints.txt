@@ -1,4 +1,58 @@
-Gameday Challenge Hints
+# Gameday Challenge Hints
+
+Note: For using Terraform you need to have the following pre-requisits in your host machine:
+1. Terraform installed: https://learn.hashicorp.com/terraform/getting-started/install
+2. Kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/
+3. Wget - https://www.gnu.org/software/wget/
+4. AWS Authenticator - For AWS Only - https://www.gnu.org/software/wget/
+
+# Terraform - PANW AWS & AZURE
+
+- https://github.com/PaloAltoNetworks/terraform-templates
+
+- https://github.com/PaloAltoNetworks/terraform-templates/blob/master/Terraform_Container_Readme.md
+
+
+# Terraform EKS AWS
+
+$ git clone https://github.com/lcastrose/EKS-Terraform
+
+
+#Terraform AKS Azure
+
+https://learn.hashicorp.com/terraform/kubernetes/provision-aks-cluster
+
+
+#Terraform GKS GCP
+
+https://learn.hashicorp.com/terraform/kubernetes/provision-gke-cluster
+
+
+# PANW AZURE ARM
+
+https://github.com/PaloAltoNetworks/azure
+
+https://docs.paloaltonetworks.com/vm-series/9-1/vm-series-deployment/set-up-the-vm-series-firewall-on-azure/use-the-arm-template-to-deploy-the-vm-series-firewall.html
+
+# PANW AWS
+
+https://live.paloaltonetworks.com/t5/aws/ct-p/AWS
+
+https://github.com/PaloAltoNetworks/aws
+
+# PANW GCP
+
+https://live.paloaltonetworks.com/t5/gcp/ct-p/Google-Cloud-Platform
+
+https://github.com/PaloAltoNetworks/gcp-two-tier
+
+# Manage Kubernetes in Terraform
+
+https://learn.hashicorp.com/terraform/kubernetes/deploy-nginx-kubernetes
+
+
+
+
 
 1. Lift and Shift
 
