@@ -51,9 +51,6 @@ https://github.com/PaloAltoNetworks/gcp-two-tier
 https://learn.hashicorp.com/terraform/kubernetes/deploy-nginx-kubernetes
 
 
-
-
-
 1. Lift and Shift
 
 LEMP: 
