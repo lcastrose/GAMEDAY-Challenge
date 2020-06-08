@@ -28,7 +28,7 @@ Cloud & Containers Final Session
 
 1. Architecture Diagram - 10% (Use draw.io https://app.diagrams.net/)
 2. Operational Deployment - 30%
-3. Security Components - 20
+3. Security Components - 20%
 4. Creativity & Innovation- 20%
 5. Presentation and Sustentation - 20%
 6. Extra Mile - 20% (Optional)
