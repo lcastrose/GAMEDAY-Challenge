@@ -43,6 +43,9 @@ Cloud & Containers Final Session
 
 # Extra Mile (Optional):
 1. Test a DR scenario
+2. 3rd Party Product Integration
+3. Multi-Cloud Deployment
+4. Or any other value added to the infrastructure
 
 
 # Access to Training Presentations and Labs:
