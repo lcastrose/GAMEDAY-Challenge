@@ -22,7 +22,7 @@ Cloud & Containers Final Session
 4. Build an Architecture Diagram of the solution
 5. Build the solution to work propertly
 6. Add a Security Feature (NGFW, Prisma Cloud, Prisma SaaS, Prisma Acces, etc)
-6. Prepare a small presentation of the solution for the Judges (Presentation10 Min max)
+6. Prepare a small presentation of the solution for the Judges (Presentation 10 Min max)
 
 # Grading:
 
