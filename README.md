@@ -8,8 +8,7 @@ Cloud & Containers Final Session
 - Based on traditional IaaS like: VMs, RDBMS
 
 2. Cloud Native: (Give you +10 Extra Points)
-- Based on containers like: Docker, Kubernetes
-- Docker Hub: https://hub.docker.com/
+- Based on containers like: Docker, Kubernetes, DevOps CI/CD Pipeline
 
 3. Serverless: (Give you +15 Extra Points)
 - Based on services like: Lambda/Functions and PaaS: S3, RDS, API Gateways
@@ -27,25 +26,24 @@ Cloud & Containers Final Session
 
 # Grading:
 
-1. Architecture Diagram - 20% (Use draw.io https://app.diagrams.net/)
+1. Architecture Diagram - 10% (Use draw.io https://app.diagrams.net/)
 2. Operational Deployment - 30%
-3. Creativity - 10%
-4. Innovation - 20%
+3. Security Components - 20
+4. Creativity & Innovation- 20%
 5. Presentation and Sustentation - 20%
 6. Extra Mile - 20% (Optional)
 
 # Minimal Requirements:
-1. Expose the service publically
+1. Expose one service publically (Can be as simples as a Hello World!!!)
 2. Have at least two layers: FrontEnd & Middleware or DB (No need to make DB fully operational)
-2. Consider Security, SG, IAM, 
-3. Consider Resiliency - AZ's, High Availability
-4. Use DNS Service or Route53
-5. Exposed Services (Web Sites) should contain something related to Palo Alto Networks. Meaning that examples provided need to be modified with related content.
+3. Consider PANW Security Components: VM-Series, Prisma Cloud, Prisma SaaS, Prisma Access, etc
+4. Consider Resiliency - At least two AZ' or High Availability
+5. Use DNS Service or Route53 (AWS)
+6. Automation: At least one component needs to be deployed using Aumotation or Infrastructure as Code (IaC)
 
 # Extra Mile (Optional):
-1. Automation (could be Bash Script, IaC, Terraform, CloudFormation, ARM, etc)
-2. Test a DR scenario
-3. Add a PANW inside the Architecture
+1. Test a DR scenario
+
 
 # Access to Training Presentations and Labs:
 
